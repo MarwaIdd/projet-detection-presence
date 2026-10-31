@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Modèle CNN (fichier lourd, à télécharger séparément)
+*.caffemodel
+
+*.pdf
